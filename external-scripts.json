@@ -1,9 +1,7 @@
 [
-  "hubot-circleci-notify",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
-  "hubot-github-repo-event-notifier2",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
